@@ -1,0 +1,10 @@
+{
+  "curso": "Projeto de Programação",
+  "disciplina": "Orientação a Objetos",
+  "tema_escolhido": "5",
+  "linguagem": "Java",
+  "gerenciador_dependencias": "Maven",
+  "integrantes": [
+    {"nome": "Maria Clara Gonçalves Pedroso", "github_username": "Electra115"}
+  ]
+}
